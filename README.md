@@ -36,5 +36,5 @@
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: your-linkedin-link
-- Email: your-email# qandeershahzad
+- LinkedIn: https://www.linkedin.com/in/qandeer-shahzad/
+- Email: qandeer.shahzad1@gmail.com
